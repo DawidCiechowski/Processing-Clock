@@ -6,4 +6,4 @@ A simple graphical clock created in Processing.
 
 ## Showcase
 
-![alt text]()
+![alt text](https://github.com/DawidCiechowski/Processing-Clock/tree/master/img)
